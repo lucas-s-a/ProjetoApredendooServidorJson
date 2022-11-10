@@ -1,0 +1,78 @@
+{
+  "Medicamentos": [
+    {
+      "nome": "Dipirona",
+      "descricao": "Contra dor de cabeça e dores no corpo",
+      "preco": 8.5,
+      "imgl": "imgl/rem1.png",
+      "id": 1
+    },
+    {
+      "nome": "Amoxilina",
+      "descricao": "Contra infecções bacterianas",
+      "preco": 13.45,
+      "imgl": "imgl/rem2.png",
+      "id": 2
+    },
+    {
+      "nome": "nimesulida ",
+      "descricao": "Anti inflamatório",
+      "preco": 28.5,
+      "imgl": "imgl/rem1.png",
+      "id": 3
+    },
+    {
+      "nome": "Amendotina",
+      "descricao": "papa",
+      "preco": 10.5,
+      "imgl": "imgl/Gen.png",
+      "id": 4
+    }
+  ],
+  "Vitaminas": [
+    {
+      "nome": "Vitamina C",
+      "descricao": "30 comprimidos 500mg",
+      "preco": 23.7,
+      "imgl": "imgl/Gen.png",
+      "id": 1
+    },
+    {
+      "nome": "Vitamina D",
+      "descricao": "30 capsulas",
+      "preco": 70.71,
+      "imgl": "imgl/Gen.png",
+      "id": 2
+    },
+    {
+      "nome": "Omega 3",
+      "descricao": "1000mg 120 capsulas",
+      "preco": 95.73,
+      "imgl": "imgl/Gen.png",
+      "id": 3
+    }
+  ],
+  "Lanches_Rapidos": [
+    {
+      "nome": "nutriugui cereal em barra",
+      "descricao": "Barra de Banana com chocolate",
+      "preco": 3.7,
+      "imgl": "imgl/Gen.png",
+      "id": 1
+    },
+    {
+      "nome": "Supinho cereal em barra",
+      "descricao": "Barra de fruta",
+      "preco": 7.51,
+      "imgl": "imgl/Gen.png",
+      "id": 2
+    },
+    {
+      "nome": "Pastilha waltdisney",
+      "descricao": "Pastilha de menta",
+      "preco": 10.71,
+      "imgl": "imgl/Gen.png",
+      "id": 3
+    }
+  ]
+}
