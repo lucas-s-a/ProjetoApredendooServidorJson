@@ -1,5 +1,7 @@
 # ProjetoApredendooServidorJson
-Criar um arquivo Json onde você pode usar uma extensão Thunder Client no próprio VScode que fará teste de requisições HTTP, na API criada
+Criar um arquivo Json onde você pode usar uma extensão Thunder Client no próprio VScode que fará teste de requisições HTTP, na API criada.
+
+PROJETO APENAS PARA SEGUIR COM O APRENDIZADO DO MÓDULO EM ANDAMENTO
 
 Passo a Passo:
 
