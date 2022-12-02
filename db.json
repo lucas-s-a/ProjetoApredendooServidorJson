@@ -4,28 +4,28 @@
       "nome": "Dipirona",
       "descricao": "Contra dor de cabeça e dores no corpo",
       "preco": 8.5,
-      "imgl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drogariaminasbrasil.com.br%2Fdipirona-monoidratada-500mg-com-30-comprimidos-generico-prati-donaduzzi&psig=AOvVaw1V_iBjO4p1vs2nx6yaVX9f&ust=1670106537472000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD2p_392_sCFQAAAAAdAAAAABAD",
+      "imgl": "https://media.istockphoto.com/id/1210539415/pt/foto/pills-in-a-box-on-a-background.jpg?b=1&s=612x612&w=0&k=20&c=pijUvwqFncT31e8YdWbnw7jTtKtpPCfoYO949anC8Iw=",
       "id": 1
     },
     {
       "nome": "Amoxilina",
       "descricao": "Contra infecções bacterianas",
       "preco": 13.45,
-      "imgl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fconsultaremedios.com.br%2Famoxicilina-neo-quimica%2F50mg-ml-caixa-com-1-frasco-com-po-para-suspensao-de-uso-oral-frasco-com-capacidade-de-150ml-copo-medidor-de-10ml%2Fp&psig=AOvVaw3sUb04uFK64iB0PcgF0kC1&ust=1670106604113000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDwmYv-2_sCFQAAAAAdAAAAABAE",
+      "imgl": "https://media.istockphoto.com/id/635948926/pt/foto/3d-rendering-of-antibiotic-pills-in-blister-pack.jpg?s=612x612&w=is&k=20&c=k-JRRiTDW7emwQOPiVOPNEK-K3MBxEi9zy3i2jAM19o=",
       "id": 2
     },
     {
       "nome": "nimesulida ",
       "descricao": "Anti inflamatório",
       "preco": 28.5,
-      "imgl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fconsultaremedios.com.br%2Fnimesulida-neo-quimica%2F100mg-caixa-com-12-comprimidos-1%2Fp&psig=AOvVaw1kaIbeecsFr4ooPEw4lGEO&ust=1670106632093000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjtsZn-2_sCFQAAAAAdAAAAABAD",
+      "imgl": "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": 3
     },
     {
       "nome": "Sinvastacor",
       "descricao": "Contra o colesterol e gordura",
       "preco": 25.53,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2qp15ca4v4icd.cloudfront.net%2FCustom%2FContent%2FProducts%2F19%2F21%2F19218_sinvastacor-10mg-caixa-com-30-comprimidos-revestidos-p7897595601766_s2_637231526666612858.jpg&imgrefurl=https%3A%2F%2Fwww.clickmed.com.br%2Fsinvastacor-10mg-caixa-com-30-comprimidos-revestidos-p7897595601766-p19218&tbnid=RdSuGm3EYa7mpM&vet=12ahUKEwj80Kel_tv7AhWzNbkGHY4ZA4YQMygPegUIARDgAQ..i&docid=MdBfrv3qhOAWdM&w=245&h=245&itg=1&q=sinvastacor&client=opera&ved=2ahUKEwj80Kel_tv7AhWzNbkGHY4ZA4YQMygPegUIARDgAQ",
+      "imgl": "https://www.pexels.com/pt-br/foto/azul-capsulas-captura-contagioso-5722883/",
       "id": 4
     }
   ],
@@ -34,21 +34,21 @@
       "nome": "Vitamina C",
       "descricao": "30 comprimidos 500mg",
       "preco": 23.7,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.entrypoint.directory%2Fassets%2F39790%2Fprodutos%2F763%2Fvitamina-c-acido-ascorbico-unilife-60-capsulas-1.jpg&imgrefurl=https%3A%2F%2Fwww.lojarelvaverde.com.br%2Fvitamina-c-acido-ascorbico-unilife-60-capsulas-500mg-p763&tbnid=X-AWNkF_9rL_GM&vet=12ahUKEwjypIax_tv7AhXYN7kGHVtwAnoQMygOegUIARCGAg..i&docid=iaYLD2wwzskhUM&w=1000&h=1000&q=vitamina%20C&client=opera&ved=2ahUKEwjypIax_tv7AhXYN7kGHVtwAnoQMygOegUIARCGAg",
+      "imgl": "https://images.pexels.com/photos/4108102/pexels-photo-4108102.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": 1
     },
     {
       "nome": "Vitamina D",
       "descricao": "30 capsulas",
       "preco": 70.71,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdrogariasp.vteximg.com.br%2Farquivos%2Fids%2F466026-1000-1000%2F549606---vitamina-d-depura-500ui-gotas-10ml.jpg%3Fv%3D637625624802000000&imgrefurl=https%3A%2F%2Fwww.drogariasaopaulo.com.br%2Fvitamina-d-depura-500ui-gotas-10ml%2Fp&tbnid=IbrTc9_nj2qjRM&vet=12ahUKEwj-p-fT_tv7AhXON7kGHfc8CzQQMygIegUIARCoAg..i&docid=qBawdmxumJ_tkM&w=1000&h=1000&q=vitamina%20d&client=opera&ved=2ahUKEwj-p-fT_tv7AhXON7kGHfc8CzQQMygIegUIARCoAg",
+      "imgl": "https://images.pexels.com/photos/5998514/pexels-photo-5998514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "id": 2
     },
     {
       "nome": "Omega 3",
       "descricao": "1000mg 120 capsulas",
       "preco": 95.73,
-      "imgl": "https://www.google.com/aclk?sa=l&ai=DChcSEwi6vMfi_tv7AhU15VwKHR_SCfIYABABGgJjZQ&sig=AOD64_1xcDaBmvUXiOomf1trLE9SGtM8bw&adurl&ctype=5&ved=2ahUKEwid8rji_tv7AhXoILkGHZ4YCf4Qwg96BAgBEGk",
+      "imgl": "https://images.pexels.com/photos/3850763/pexels-photo-3850763.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": 3
     }
   ],
@@ -57,21 +57,21 @@
       "nome": "Nutri cereal em barra",
       "descricao": "Barra de Banana com chocolate",
       "preco": 3.7,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.drogariaminasbrasil.com.br%2Fmedia%2Fproduct%2F7f5%2Fbarra-de-cereal-bolo-de-chocolate-22g-nutry-5be.jpg&imgrefurl=https%3A%2F%2Fwww.drogariaminasbrasil.com.br%2Fcereal-nutry-bolo-de-chocolate-22g&tbnid=PM7KNWLtmjYPIM&vet=12ahUKEwj_06WA_9v7AhUPN7kGHXivAhkQ94IIKAB6BQgBEMAB..i&docid=uzWws1okP3tv2M&w=1200&h=1200&q=nutri%20barra%20de%20cereal%20choco&client=opera&ved=2ahUKEwj_06WA_9v7AhUPN7kGHXivAhkQ94IIKAB6BQgBEMAB",
+      "imgl": "https://images-americanas.b2w.io/produtos/5680942421/imagens/barra-cereal-nutry-sabor-bolo-de-chocolate-22g/5680942421_1_xlarge.jpg",
       "id": 1
     },
     {
-      "nome": "Suping cereal em barra",
+      "nome": "Nutri cereal em barra de banan",
       "descricao": "Barra de fruta",
       "preco": 7.51,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fsuperbom.s3-sa-east-1.amazonaws.com%2Fcatalog%2Fproduct%2Fb%2Fa%2Fbarra-de-frutas-zero-supino-24g-banana-noz-dam-image.jpg&imgrefurl=https%3A%2F%2Fwww.superbomemcasa.com.br%2Fbarra-de-frutas-zero-supino-24g-banana-noz-dam.49041p&tbnid=2OibS96U9bZpgM&vet=12ahUKEwiLuu2S_9v7AhXhA7kGHUCYCygQMygCegUIARC8AQ..i&docid=Va37pe6vaNkpfM&w=800&h=800&itg=1&q=barra%20defruta%20supr&client=opera&ved=2ahUKEwiLuu2S_9v7AhXhA7kGHUCYCygQMygCegUIARC8AQ",
+      "imgl": "https://images-americanas.b2w.io/produtos/01/00/img/65506/9/65506946_1SZ.jpg",
       "id": 2
     },
     {
       "nome": "Pastilha Valda",
       "descricao": "Pastilha de menta",
       "preco": 10.71,
-      "imgl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpaguemenos.vtexassets.com%2Farquivos%2Fids%2F638175%2Fpastilha-valda-classic-lata-50g-principal.jpg%3Fv%3D638007985772200000&imgrefurl=https%3A%2F%2Fwww.paguemenos.com.br%2Fpastilha-valda-classic-lata-50g%2Fp&tbnid=sZy9pYDRyOBFCM&vet=12ahUKEwjEsfSi_9v7AhWUK7kGHdvPA-0Q94IIKAF6BQgBEOgB..i&docid=L3KQBF1toZxChM&w=1200&h=1200&q=pastilha%20valda&client=opera&ved=2ahUKEwjEsfSi_9v7AhWUK7kGHdvPA-0Q94IIKAF6BQgBEOgB",
+      "imgl": "https://images-americanas.b2w.io/produtos/3714100863/imagens/pastilha-valda-friends-sem-acucar-50g/3714100863_1_xlarge.jpg",
       "id": 3
     }
   ]
