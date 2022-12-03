@@ -74,5 +74,275 @@
       "imgl": "https://images-americanas.b2w.io/produtos/3714100863/imagens/pastilha-valda-friends-sem-acucar-50g/3714100863_1_xlarge.jpg",
       "id": 3
     }
+  ],
+  "Acessorios_Treino" : [
+    {
+      "nome": "Balança corporal digital",
+      "descricao": "A balança digital é leve, resistente e te acompanha onde você for, te ajudando a manter seu peso sempre saudável.",
+      "preco": 42.21,
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Tapete de Yoga",
+      "descricao": "Tapete de Yoga de mandala premium roxo",
+      "preco": 37.90,
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Bola para fisioterapia",
+      "descricao": "Esfera para Fisioterapia. Indicações: Fisioterapia, reabilitação e terapia ocupacional.",
+      "preco": 159.60,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Leg Press Plate",
+      "descricao": "Otimize seus exercícios com o equipamento Leg Press",
+      "preco": 13292.21,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Tratamentos_Capilares" : [
+    {
+      "nome": "Suplemento Vitamínico",
+      "descricao": "Fortalece e estimula o crescimento de unhas e cabelos.",
+      "preco": 107.99,
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Shampoo Antiqueda",
+      "descricao": "Ele conta com uma fórmula inovadora que restaura a vitalidade dos fios, deixando-os mais resistentes e com brilho.",
+      "preco": 79.90,
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Suplemento Alimentar Antiqueda",
+      "descricao": "É um suplemento vitamínico capilar que auxilia no crescimento do cabelo, fortalecendo a saúde dos fios e evitando a queda,",
+      "preco": 125.99,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Suplemento em Pó Antiqueda",
+      "descricao": "É um pó para preparo instantâneo de bebida, formulado à base de peptídeos de Colágeno, Hibiscos e Vitamina C. ",
+      "preco": 128.99,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Saude_Sexual" : [
+    {
+      "nome": "Termometro Digital",
+      "descricao": "É um termômetro digital para utilização oral, axilar e retal. É resistente à água e possui um visor grande em cristal líquido para fácil visualização dos resultados em até 30 segundos",
+      "preco": 11.24,
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Camisinha",
+      "descricao": "É uma camisinha lubrificada mais fina do que as comuns que proporciona maior sensação de contato devido a sua menor espessura.",
+      "preco": 20.99,
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Gel Lubrificante intimo",
+      "descricao": "Um gel para massagem e lubrificante íntimo que mantém a sensibilidade e proporciona conforto e prazer durante o ato sexual.",
+      "preco": 23.99,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Gel Dessensibilizante intímo",
+      "descricao": "Possui textura leve e suave. Criado para diminuir a sensibilidade na região anal",
+      "preco": 55.00,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Ortopedicos": [
+    {
+      "nome": "Joelheira",
+      "descricao": "Protetor para Joelho com compressão uniforme. Oferece maior proteção ao joelho, ótima opção para a prática de esportes de alto impacto.",
+      "preco": "64.9",
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Cinto Lombar com Hastes",
+      "descricao": "Cinta Lombar com Hastes de Aço Flexiveis",
+      "preco": "79.8",
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Par meia palmilha",
+      "descricao": "Par meia palmilha 100% silicone gel ortopédica calcanhar esporão",
+      "preco": 47.38,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Chinelo Ortopédico",
+      "descricao": "Chinelo Ortopédico, Nuvem Macia Leve Confortável Preto",
+      "preco": 105.21,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Alimentacao_infantil": [
+    {
+      "nome": "Leite em Pó",
+      "descricao": "Composto lácteo adequado para intolerantes à lactose.",
+      "preco": 53.99,
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Snaks Infantil",
+      "descricao": "Biscoito assado feito com frutas e cereais.",
+      "preco": 6.49,
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Suplemento alimentar infantil",
+      "descricao": "Auxilia no desenvolvimento físico, mental e imunológico.",
+      "preco": 172.99,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Danone Infantil",
+      "descricao": "Com DHA, ARA, Prebióticos e Taurina.",
+      "preco": 68.99,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Suplementos_Academia": [
+    {
+      "nome": "Creatina Monohidratada",
+      "descricao": "Essa Creatina Nutrify é produzida com a matéria-prima alemã Creapure.",
+      "preco": 170.05,
+      "imgl": "",
+      "id": 1
+    },
+    {
+      "nome": "Energético",
+      "descricao": "Dose única com efeito cooling, que proporciona refrescância após o consumo.",
+      "preco": 7.49,
+      "imgl": "",
+      "id": 2
+    },
+    {
+      "nome": "Suplemento em barra",
+      "descricao": "Suplemento em barra Integralmédica Protein Crisp Bar proteínas",
+      "preco": 53.91,
+      "imgl": "",
+      "id": 3
+    },
+    {
+      "nome": "Whey em Pó",
+      "descricao": "Favorece o crescimento de massa muscular",
+      "preco": 84.21,
+      "imgl": "",
+      "id": 4
+    }
+  ],
+  "Beleza": [
+    {
+      "nome": "Hidratante corporal",
+      "descricao": "Creme hidratante corporal",
+      "preco": 13.5,
+      "imgl": "imgl/rem2.png",
+      "id": 1
+    },
+    {
+      "nome": "Hidratante facial",
+      "descricao": "Creme hidratante proprio para hidratação facial",
+      "preco": 19.9,
+      "imgl": "imgl/rem2.png",
+      "id": 2
+    },
+    {
+      "nome": "mascara facial",
+      "descricao": "mascara facial anti cravo",
+      "preco": 9.9,
+      "imgl": "imgl/rem1.png",
+      "id": 3
+    },
+    {
+      "nome": "esfoliante corporal",
+      "descricao": "esfoliante corporal com ureia e manteiga de karitê",
+      "preco": 14.9,
+      "imgl": "imgl/Gen.png",
+      "id": 4
+    }
+  ],
+  "Cabelo": [
+    {
+      "nome": "Shampoo Seda",
+      "descricao": "shampoo neutro para todos os tipos de cabelo",
+      "preco": 12.5,
+      "imgl": "imgl/Gen.png",
+      "id": 1
+    },
+    {
+      "nome": "Condicionador Seda",
+      "descricao": "condicionador super hidratante",
+      "preco": 15.9,
+      "imgl": "imgl/Gen.png",
+      "id": 2
+    },
+    {
+      "nome": "Macara hidratante maximo Seda",
+      "descricao": "hidratação maxima para os cabelos, uso pós condicinador",
+      "preco": 24.9,
+      "imgl": "imgl/Gen.png",
+      "id": 3
+    },
+    {
+      "nome": "Creme para pentear Seda",
+      "descricao": "creme para desembaraçar os cabelos e deixalos macio",
+      "preco": 19.9,
+      "imgl": "imgl/Gen.png",
+      "id": 4
+    }
+  ],
+  "Higiene-Pessoal": [
+    {
+      "nome": "Sabonete em barra larado",
+      "descricao": "sabonete em barra com glicerina e aroma de jabuticaba",
+      "preco": 3.7,
+      "imgl": "imgl/Gen.png",
+      "id": 1
+    },
+    {
+      "nome": "Sabonete liquido larado",
+      "descricao": "sabonete liquido om aroma de lavanda",
+      "preco": 7.5,
+      "imgl": "imgl/Gen.png",
+      "id": 2
+    },
+    {
+      "nome": "Sabonete facial larado",
+      "descricao": "sabonete proprio para limpeza facial com glicerina",
+      "preco": 10.71,
+      "imgl": "imgl/Gen.png",
+      "id": 3
+    },
+    {
+      "nome": "Desodorante Rexona",
+      "descricao": "desodorante aerosol proteção maxima com 200ml",
+      "preco": 10.71,
+      "imgl": "imgl/Gen.png",
+      "id": 4
+    }
   ]
 }
