@@ -16,7 +16,7 @@
     },
     {
       "nome": "nimesulida ",
-      "descricao": "Anti inflamatório",
+      "descricao": "Anti inflamatório com ação analgésica e antitérmica",
       "preco": 28.5,
       "imgl": "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": 3
@@ -50,6 +50,13 @@
       "preco": 95.73,
       "imgl": "https://images.pexels.com/photos/3850763/pexels-photo-3850763.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": 3
+    },
+    {
+      "nome": "PRO SENSE",
+      "descricao": "Suplemento de Óleo de Sementes de Abóbora com Vitamina E",
+      "preco": 129.73,
+      "imgl": "https://www.vitaminas.com.vc/wp-content/uploads/2022/06/ProSense.png",
+      "id": 3
     }
   ],
   "Lanches_Rapidos": [
@@ -61,7 +68,7 @@
       "id": 1
     },
     {
-      "nome": "Nutri cereal em barra de banan",
+      "nome": "Nutri cereal em barra de banana",
       "descricao": "Barra de fruta",
       "preco": 7.51,
       "imgl": "https://images-americanas.b2w.io/produtos/01/00/img/65506/9/65506946_1SZ.jpg",
@@ -73,12 +80,19 @@
       "preco": 10.71,
       "imgl": "https://images-americanas.b2w.io/produtos/3714100863/imagens/pastilha-valda-friends-sem-acucar-50g/3714100863_1_xlarge.jpg",
       "id": 3
+    },
+    {
+      "nome": "Barra de Cereal Ritter",
+      "descricao": "Capuccino e Chocolate 25g",
+      "preco": 2.71,
+      "imgl": "https://images.tcdn.com.br/img/img_prod/1070866/barra_de_cereal_ritter_capuccino_e_chocolate_25g_1725_1_220ad47899d6a243fd22fbe994cfb806.jpg",
+      "id": 3
     }
   ],
   "Acessorios_Treino" : [
     {
       "nome": "Balança corporal digital",
-      "descricao": "A balança digital é leve, resistente e te acompanha onde você for, te ajudando a manter seu peso sempre saudável.",
+      "descricao": "A balança digital é leve, resistente e te acompanha onde você for.",
       "preco": 42.21,
       "imgl": "",
       "id": 1
@@ -115,21 +129,21 @@
     },
     {
       "nome": "Shampoo Antiqueda",
-      "descricao": "Ele conta com uma fórmula inovadora que restaura a vitalidade dos fios, deixando-os mais resistentes e com brilho.",
+      "descricao": "Restaura a vitalidade dos fios, deixando-os mais resistentes e com brilho.",
       "preco": 79.90,
       "imgl": "",
       "id": 2
     },
     {
       "nome": "Suplemento Alimentar Antiqueda",
-      "descricao": "É um suplemento vitamínico capilar que auxilia no crescimento do cabelo, fortalecendo a saúde dos fios e evitando a queda,",
+      "descricao": "Auxilia no crescimento do cabelo, fortalecendo a saúde dos fios e evitando a queda.",
       "preco": 125.99,
       "imgl": "",
       "id": 3
     },
     {
       "nome": "Suplemento em Pó Antiqueda",
-      "descricao": "É um pó para preparo instantâneo de bebida, formulado à base de peptídeos de Colágeno, Hibiscos e Vitamina C. ",
+      "descricao": "Formulado à base de peptídeos de Colágeno, Hibiscos e Vitamina C. ",
       "preco": 128.99,
       "imgl": "",
       "id": 4
@@ -138,28 +152,28 @@
   "Saude_Sexual" : [
     {
       "nome": "Termometro Digital",
-      "descricao": "É um termômetro digital para utilização oral, axilar e retal. É resistente à água e possui um visor grande em cristal líquido para fácil visualização dos resultados em até 30 segundos",
+      "descricao": "É resistente à água e tem um visor em cristal líquido para fácil visualização dos resultados em até 30 segundos",
       "preco": 11.24,
       "imgl": "",
       "id": 1
     },
     {
       "nome": "Camisinha",
-      "descricao": "É uma camisinha lubrificada mais fina do que as comuns que proporciona maior sensação de contato devido a sua menor espessura.",
+      "descricao": "Sensitive com pouca espessura.",
       "preco": 20.99,
       "imgl": "",
       "id": 2
     },
     {
       "nome": "Gel Lubrificante intimo",
-      "descricao": "Um gel para massagem e lubrificante íntimo que mantém a sensibilidade e proporciona conforto e prazer durante o ato sexual.",
+      "descricao": "Um gel para massagem e lubrificante íntimo.",
       "preco": 23.99,
       "imgl": "",
       "id": 3
     },
     {
       "nome": "Gel Dessensibilizante intímo",
-      "descricao": "Possui textura leve e suave. Criado para diminuir a sensibilidade na região anal",
+      "descricao": "Possui textura leve e suave.",
       "preco": 55.00,
       "imgl": "",
       "id": 4
