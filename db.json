@@ -92,7 +92,7 @@
   "Acessorios_Treino" : [
     {
       "nome": "Balança corporal digital",
-      "descricao": "A balança digital é leve, resistente e te acompanha onde você for.",
+      "descricao": "A balança digital é leve, resistente e te facil de levar",
       "preco": 42.21,
       "imgl": "",
       "id": 1
@@ -106,7 +106,7 @@
     },
     {
       "nome": "Bola para fisioterapia",
-      "descricao": "Esfera para Fisioterapia. Indicações: Fisioterapia, reabilitação e terapia ocupacional.",
+      "descricao": "Esfera para Fisioterapia. Indicações: Fisioterapia e terapia ocupacional.",
       "preco": 159.60,
       "imgl": "",
       "id": 3
@@ -122,28 +122,28 @@
   "Tratamentos_Capilares" : [
     {
       "nome": "Suplemento Vitamínico",
-      "descricao": "Fortalece e estimula o crescimento de unhas e cabelos.",
+      "descricao": "Fortalece o crescimento de unhas e cabelos.",
       "preco": 107.99,
       "imgl": "",
       "id": 1
     },
     {
       "nome": "Shampoo Antiqueda",
-      "descricao": "Restaura a vitalidade dos fios, deixando-os mais resistentes e com brilho.",
+      "descricao": "Restaura a vitalidade dos fios, deixando mais resistentes e com brilho.",
       "preco": 79.90,
       "imgl": "",
       "id": 2
     },
     {
       "nome": "Suplemento Alimentar Antiqueda",
-      "descricao": "Auxilia no crescimento do cabelo, fortalecendo a saúde dos fios e evitando a queda.",
+      "descricao": "Auxilia no crescimento, fortalece a saúde dos fios e evitando a queda.",
       "preco": 125.99,
       "imgl": "",
       "id": 3
     },
     {
       "nome": "Suplemento em Pó Antiqueda",
-      "descricao": "Formulado à base de peptídeos de Colágeno, Hibiscos e Vitamina C. ",
+      "descricao": "Formulado à base de peptídeos de Colágeno,Hibiscos e Vitamina C.",
       "preco": 128.99,
       "imgl": "",
       "id": 4
@@ -152,7 +152,7 @@
   "Saude_Sexual" : [
     {
       "nome": "Termometro Digital",
-      "descricao": "É resistente à água e tem um visor em cristal líquido para fácil visualização dos resultados em até 30 segundos",
+      "descricao": "É resistente à água e tem um visor em cristal líquido.",
       "preco": 11.24,
       "imgl": "",
       "id": 1
@@ -182,7 +182,7 @@
   "Ortopedicos": [
     {
       "nome": "Joelheira",
-      "descricao": "Protetor para Joelho com compressão uniforme. Oferece maior proteção ao joelho, ótima opção para a prática de esportes de alto impacto.",
+      "descricao": "Protetor para Joelho com compressão uniforme.",
       "preco": "64.9",
       "imgl": "",
       "id": 1
@@ -242,21 +242,21 @@
   "Suplementos_Academia": [
     {
       "nome": "Creatina Monohidratada",
-      "descricao": "Essa Creatina Nutrify é produzida com a matéria-prima alemã Creapure.",
+      "descricao": "Essa Creatina Nutrify é produzida com matéria-prima alemã Creapure.",
       "preco": 170.05,
       "imgl": "",
       "id": 1
     },
     {
       "nome": "Energético",
-      "descricao": "Dose única com efeito cooling, que proporciona refrescância após o consumo.",
+      "descricao": "Dose única com efeito cooling,refrescante.",
       "preco": 7.49,
       "imgl": "",
       "id": 2
     },
     {
       "nome": "Suplemento em barra",
-      "descricao": "Suplemento em barra Integralmédica Protein Crisp Bar proteínas",
+      "descricao": "Suplemento em barra Integral",
       "preco": 53.91,
       "imgl": "",
       "id": 3
