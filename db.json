@@ -255,17 +255,17 @@
       "id": 2
     },
     {
-      "nome": "Suplemento em barra",
-      "descricao": "Suplemento em barra Integral",
+      "nome": "whey protein concentrado",
+      "descricao": "900g chocolate",
       "preco": 53.91,
-      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/631668-200-200/772968---Barra-de-Proteina-Bold-Thin-Trufa-de-Morango-40g-1.jpg?v=637869520198900000",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/781318-200-200/image-26fc28128fa24ec39726b321e6164fab.jpg?v=637998171883900000",
       "id": 3
     },
     {
       "nome": "Whey em Pó",
       "descricao": "Favorece o crescimento de massa muscular",
       "preco": 84.21,
-      "imgl": "https://www.drogariasaopaulo.com.br/best-whey-protein-ball-ao-leite-50g/p",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/787621-200-200/image-583efbfa677240f58ed4b0ba25ccde10.jpg?v=638004845560570000",
       "id": 4
     }
   ],
