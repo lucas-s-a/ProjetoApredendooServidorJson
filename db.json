@@ -56,7 +56,7 @@
       "descricao": "Suplemento de Óleo de Sementes de Abóbora com Vitamina E",
       "preco": 129.73,
       "imgl": "https://www.vitaminas.com.vc/wp-content/uploads/2022/06/ProSense.png",
-      "id": 3
+      "id": 4
     }
   ],
   "Lanches_Rapidos": [
@@ -86,7 +86,7 @@
       "descricao": "Capuccino e Chocolate 25g",
       "preco": 2.71,
       "imgl": "https://images.tcdn.com.br/img/img_prod/1070866/barra_de_cereal_ritter_capuccino_e_chocolate_25g_1725_1_220ad47899d6a243fd22fbe994cfb806.jpg",
-      "id": 3
+      "id": 4
     }
   ],
   "Acessorios_Treino" : [
@@ -354,7 +354,7 @@
     {
       "nome": "Desodorante Rexona",
       "descricao": "desodorante aerosol proteção maxima com 200ml",
-      "preco": 10.71,
+      "preco": 8.71,
       "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/543431-200-200/759775---Desodorante-Aerosol-Rexona-Power-Dry-250ml-1.jpg?v=637801111570370000",
       "id": 4
     }
