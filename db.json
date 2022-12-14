@@ -94,58 +94,58 @@
       "nome": "Balança corporal digital",
       "descricao": "A balança digital é leve, resistente e te facil de levar",
       "preco": 42.21,
-      "imgl": "",
+      "imgl": "https://images-americanas.b2w.io/produtos/2663959010/imagens/balanca-de-controle-corporal-digital-com-bioimpedancia/2663959028_1_large.jpg",
       "id": 1
     },
     {
       "nome": "Tapete de Yoga",
       "descricao": "Tapete de Yoga de mandala premium roxo",
       "preco": 37.90,
-      "imgl": "",
+      "imgl": "https://imgcentauro-a.akamaihd.net/900x900/954988EZ/tapete-para-yoga-oxer-com-alca-191-x-61-x-0-4-cm-img.jpg",
       "id": 2
     },
     {
       "nome": "Bola para fisioterapia",
       "descricao": "Esfera para Fisioterapia. Indicações: Fisioterapia e terapia ocupacional.",
       "preco": 159.60,
-      "imgl": "",
+      "imgl": "https://m.media-amazon.com/images/I/61ZBt3lKPYS.__AC_SX300_SY300_QL70_ML2_.jpg",
       "id": 3
     },
     {
       "nome": "Leg Press Plate",
       "descricao": "Otimize seus exercícios com o equipamento Leg Press",
-      "preco": 13292.21,
-      "imgl": "",
+      "preco": 13.292,
+      "imgl": "https://lojamultilaser.vteximg.com.br/arquivos/ids/195102-430-430/em165_01.jpg?v=637538287064830000",
       "id": 4
     }
   ],
   "Tratamentos_Capilares" : [
     {
-      "nome": "Suplemento Vitamínico",
+      "nome": "Shampoo Antiqueda",
       "descricao": "Fortalece o crescimento de unhas e cabelos.",
       "preco": 107.99,
-      "imgl": "",
+      "imgl": "https://www.manual.com.br/_next/image?url=https%3A%2F%2Fcdn.manual.co%2Fpublic%2Fmedia%2Fimage%2Fmanual_shop_product_original%2Ffd%2F85%2F62a818bec36b1d1845edab0866fc.jpg&w=1920&q=75",
       "id": 1
     },
     {
-      "nome": "Shampoo Antiqueda",
+      "nome": "Shampoo Antiqueda dercos",
       "descricao": "Restaura a vitalidade dos fios, deixando mais resistentes e com brilho.",
       "preco": 79.90,
-      "imgl": "",
+      "imgl": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/496181-200-200/dercos-shampoo-energizante-400ml--1-.jpg?v=637921308086500000",
       "id": 2
     },
     {
-      "nome": "Suplemento Alimentar Antiqueda",
+      "nome": "Shampoo Antiqueda pielus",
       "descricao": "Auxilia no crescimento, fortalece a saúde dos fios e evitando a queda.",
       "preco": 125.99,
-      "imgl": "",
+      "imgl": "https://hyperapharma.vteximg.com.br/arquivos/ids/161653-1000-1000/7891142981820_0.jpg?v=637909113918130000",
       "id": 3
     },
     {
-      "nome": "Suplemento em Pó Antiqueda",
+      "nome": "Shampoo Antiqueda Amplex",
       "descricao": "Formulado à base de peptídeos de Colágeno,Hibiscos e Vitamina C.",
       "preco": 128.99,
-      "imgl": "",
+      "imgl": "https://adatina.vteximg.com.br/arquivos/ids/158996-1000-1000/Bisnaga-Frente.jpg?v=637903121334430000",
       "id": 4
     }
   ],
@@ -154,28 +154,28 @@
       "nome": "Termometro Digital",
       "descricao": "É resistente à água e tem um visor em cristal líquido.",
       "preco": 11.24,
-      "imgl": "",
+      "imgl": "https://shopee.com.br/Term%C3%B4metro-Digital-Bra%C3%A7o-Adulto-E-Infantil-Testar-Febre-877-i.323192182.10459222065?sp_atk=26263159-3b78-48dd-9382-c6095e1a4ae0&xptdk=26263159-3b78-48dd-9382-c6095e1a4ae0",
       "id": 1
     },
     {
       "nome": "Camisinha",
       "descricao": "Sensitive com pouca espessura.",
       "preco": 20.99,
-      "imgl": "",
+      "imgl": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/797135-1000-1000/618896---preservativo-olla-lubrificado-8-unidades.jpg?v=637841804749400000",
       "id": 2
     },
     {
-      "nome": "Gel Lubrificante intimo",
+      "nome": "Gel Lubrificante",
       "descricao": "Um gel para massagem e lubrificante íntimo.",
       "preco": 23.99,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/222486-1000-1000/gel-lub-kmed-100ml-cimed-Drogaria-SP-628425.jpg?v=636430693135300000",
       "id": 3
     },
     {
-      "nome": "Gel Dessensibilizante intímo",
+      "nome": "Gel Dessensibilizante ",
       "descricao": "Possui textura leve e suave.",
       "preco": 55.00,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/634668-200-200/image-027a222d67184fdb97cfa49cd15a2bf7.jpg?v=637873458076600000",
       "id": 4
     }
   ],
@@ -184,58 +184,58 @@
       "nome": "Joelheira",
       "descricao": "Protetor para Joelho com compressão uniforme.",
       "preco": "64.9",
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/588579-500-500/image-c1ac86d72ece4271b18c9b97a085a568.jpg?v=637846715653270000",
       "id": 1
     },
     {
       "nome": "Cinto Lombar com Hastes",
       "descricao": "Cinta Lombar com Hastes de Aço Flexiveis",
       "preco": "79.8",
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/806312-1000-1000/image-0c682611f1a741c6b8bad758159f677d.jpg?v=638046376412100000",
       "id": 2
     },
     {
       "nome": "Par meia palmilha",
       "descricao": "Par meia palmilha 100% silicone gel ortopédica calcanhar esporão",
       "preco": 47.38,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/441961-1000-1000/727059---Meia-3-4-Kendall-Alta-Compressao--Sem-Ponteira-M-1-Par.jpg?v=637505676596470000",
       "id": 3
     },
     {
       "nome": "Chinelo Ortopédico",
       "descricao": "Chinelo Ortopédico, Nuvem Macia Leve Confortável Preto",
       "preco": 105.21,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/751028-1000-1000/image-466883f8d53845e68ad84bbc44084c22.jpg?v=637973762996300000",
       "id": 4
     }
   ],
   "Alimentacao_infantil": [
     {
-      "nome": "Leite em Pó",
+      "nome": "Leite em Pó Pediasure",
       "descricao": "Composto lácteo adequado para intolerantes à lactose.",
       "preco": 53.99,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/699737-200-200/608637---suplemento-infantil-pediasure-baunilha-1-6kg.jpg?v=637931487612300000",
       "id": 1
     },
     {
-      "nome": "Snaks Infantil",
-      "descricao": "Biscoito assado feito com frutas e cereais.",
+      "nome": "Toalha umidecida",
+      "descricao": "sem fragancia 48 un",
       "preco": 6.49,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/702013-1000-1000/671819---lenco-umedecido-baby-sem-fragrancia-ever-care-48-unidades.jpg?v=637934176019130000",
       "id": 2
     },
     {
-      "nome": "Suplemento alimentar infantil",
-      "descricao": "Auxilia no desenvolvimento físico, mental e imunológico.",
+      "nome": "Sabonete pom pom",
+      "descricao": "sabonete em barra pom pom",
       "preco": 172.99,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/705333-1000-1000/145971---sabonete-pom-pom-glicerina-80g-1.jpg?v=637939381222170000",
       "id": 3
     },
     {
-      "nome": "Danone Infantil",
-      "descricao": "Com DHA, ARA, Prebióticos e Taurina.",
+      "nome": "Shampo Infantil",
+      "descricao": "johnson 400 ml",
       "preco": 68.99,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/784703-1000-1000/199729---shampoo-johnsons-baby-400ml-1.jpg?v=638000765038470000",
       "id": 4
     }
   ],
@@ -244,28 +244,28 @@
       "nome": "Creatina Monohidratada",
       "descricao": "Essa Creatina Nutrify é produzida com matéria-prima alemã Creapure.",
       "preco": 170.05,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/653529-1000-1000/image-29171def41e94030b85a54016305333e.jpg?v=637892732137000000",
       "id": 1
     },
     {
       "nome": "Energético",
       "descricao": "Dose única com efeito cooling,refrescante.",
       "preco": 7.49,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/677437-200-200/692379---energetico-monster-energy-absolutely-zero-473ml.jpg?v=637908221872200000",
       "id": 2
     },
     {
       "nome": "Suplemento em barra",
       "descricao": "Suplemento em barra Integral",
       "preco": 53.91,
-      "imgl": "",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/541457-200-200/384984---barra-de-proteina-protein-bar-nutrilatina-chocolate-46g.jpg?v=637795845936700000",
       "id": 3
     },
     {
       "nome": "Whey em Pó",
       "descricao": "Favorece o crescimento de massa muscular",
       "preco": 84.21,
-      "imgl": "",
+      "imgl": "https://www.drogariasaopaulo.com.br/best-whey-protein-ball-ao-leite-50g/p",
       "id": 4
     }
   ],
@@ -274,28 +274,28 @@
       "nome": "Hidratante corporal",
       "descricao": "Creme hidratante corporal",
       "preco": 13.5,
-      "imgl": "imgl/rem2.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/714624-200-200/195480---locao-nivea-body-milk-extra-seca-400ml-1.jpg?v=637945624891830000",
       "id": 1
     },
     {
       "nome": "Hidratante facial",
       "descricao": "Creme hidratante proprio para hidratação facial",
       "preco": 19.9,
-      "imgl": "imgl/rem2.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/470618-200-200/583146---hidratante-facial-neutrogena-hydro-boost-water-gel-50g.jpg?v=637656925867000000",
       "id": 2
     },
     {
       "nome": "mascara facial",
       "descricao": "mascara facial anti cravo",
       "preco": 9.9,
-      "imgl": "imgl/rem1.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/626864-200-200/660850---mascara-facial-nivea-urban-detox-minimiza-poros-75ml.jpg?v=637867529661900000",
       "id": 3
     },
     {
       "nome": "esfoliante corporal",
       "descricao": "esfoliante corporal com ureia e manteiga de karitê",
       "preco": 14.9,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/700638-200-200/208361---esfoliante-corporal-nivea-bath-care-200ml-1.jpg?v=637932444251830000",
       "id": 4
     }
   ],
@@ -304,28 +304,28 @@
       "nome": "Shampoo Seda",
       "descricao": "shampoo neutro para todos os tipos de cabelo",
       "preco": 12.5,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/570900-200-200/548880---shampoo-seda-pureza-detox-325ml.jpg?v=637830545639570000",
       "id": 1
     },
     {
       "nome": "Condicionador Seda",
       "descricao": "condicionador super hidratante",
       "preco": 15.9,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/554062-200-200/729752---condicionador-seda-by-niina-secrets-colageno-vitamina-c-325ml.jpg?v=637822862209330000",
       "id": 2
     },
     {
-      "nome": "Macara hidratante maximo Seda",
+      "nome": "Mascara hidratante maximo TResemme",
       "descricao": "hidratação maxima para os cabelos, uso pós condicinador",
       "preco": 24.9,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/667721-200-200/588474---mascara-de-tratamento-tresemme-hidratacao-profunda-400g.jpg?v=637902257252600000",
       "id": 3
     },
     {
-      "nome": "Creme para pentear Seda",
+      "nome": "Creme para pentear Elseve",
       "descricao": "creme para desembaraçar os cabelos e deixalos macio",
       "preco": 19.9,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/804521-200-200/730017---Creme-Pra-Pentear-Elseve-Hidra-Hialuronico-250ml-1.jpg?v=638041398801100000",
       "id": 4
     }
   ],
@@ -334,28 +334,28 @@
       "nome": "Sabonete em barra larado",
       "descricao": "sabonete em barra com glicerina e aroma de jabuticaba",
       "preco": 3.7,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/701021-200-200/660329---sabonete-barra-nivea-hidratante-proteina-do-leite-85gr-bdf-nivea-1.jpg?v=637932529564330000",
       "id": 1
     },
     {
       "nome": "Sabonete liquido larado",
       "descricao": "sabonete liquido om aroma de lavanda",
       "preco": 7.5,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/576566-200-200/673579---sabonete-liquido-granado-glicerina-tradicional-300ml.jpg?v=637832332111830000",
       "id": 2
     },
     {
-      "nome": "Sabonete facial larado",
-      "descricao": "sabonete proprio para limpeza facial com glicerina",
+      "nome": "Desodorante Rexona Roll on",
+      "descricao": "Antebacteriano invisible",
       "preco": 10.71,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/554831-200-200/610887---desodorante-roll-on-rexona-antibacterial-invisible-feminino-50ml.jpg?v=637823670000300000",
       "id": 3
     },
     {
       "nome": "Desodorante Rexona",
       "descricao": "desodorante aerosol proteção maxima com 200ml",
       "preco": 10.71,
-      "imgl": "imgl/Gen.png",
+      "imgl": "https://drogariasp.vteximg.com.br/arquivos/ids/543431-200-200/759775---Desodorante-Aerosol-Rexona-Power-Dry-250ml-1.jpg?v=637801111570370000",
       "id": 4
     }
   ]
